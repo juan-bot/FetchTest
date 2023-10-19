@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FetchApplication</string>
+    <string name="filter_null_or_empty_name">Filter Null or Empty Name</string>
+    <string name="unfiltered">Unfiltered</string>
+    <string name="listid">listId</string>
+    <string name="name">name</string>
+    <string name="id">id</string>
 </resources>
